@@ -88,7 +88,7 @@ export default function About() {
             </h2>
             <p className={inter.className}>
               At AURORA, we understand the omprotance of having a strong presence in the digital world. That is why we 
-              work closely with our clients
+              work closely with our clients to understand their needs and develop custom web development solutions that are tailored to meet their unique requirements.
             </p>
           </a>
 
