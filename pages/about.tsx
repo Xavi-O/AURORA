@@ -67,7 +67,7 @@ export default function About() {
               Who we are
             </h2>
             <p className={inter.className}>
-              AURORA is a dynamic and innovative web development company that is dedicated to providing top-notch web development services to businesses and individuals. With a team of highly skilled and experienced web developers, we are committed to delivering exceptional solutions that are tailored to meet the unique needs of our clients. Our passion for delivering cutting-edge technology and unparalleled customer service has made us a leader in the web development industry. At Aurora, we believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions.
+              Aurora is a dynamic and innovative web development company that is dedicated to providing top-notch web development services to businesses and individuals. With a team of highly skilled and experienced web developers, we are committed to delivering exceptional solutions that are tailored to meet the unique needs of our clients. Our passion for delivering cutting-edge technology and unparalleled customer service has made us a leader in the web development industry. At Aurora, we believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions.
             </p>
           </a>
 
@@ -81,7 +81,7 @@ export default function About() {
               Our company
             </h2>
             <p className={inter.className}>
-              At AURORA, we understand the importance of having a strong online presence in today's digital world. That's why we work closely with our clients to understand their needs and develop custom web development solutions that are tailored to meet their unique requirements. Whether you are looking to build a new website from scratch, revamp an existing one, or simply need help with web maintenance, our team is here to help.
+              At Aurora, we understand the importance of having a strong online presence in today's digital world.
             </p>
           </a>
 
