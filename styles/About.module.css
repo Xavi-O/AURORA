@@ -53,8 +53,9 @@
   transition: background 200ms, border 200ms;
 }
 
-.back span {
+.back {
   display: inline-block;
+  cursor: pointer;
   transition: transform 200ms;
 }
 
