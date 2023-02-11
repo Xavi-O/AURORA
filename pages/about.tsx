@@ -93,7 +93,8 @@ export default function About() {
               from scratch, revamp an existing one, or simply need help with web maintenance, our team is here to 
               help. Our services include website design and development, e-commerce solutions, custom web 
               applications, mobile app development, and much more. We use the latest technologies and industry best 
-              practices to ensure that our. At AURORA, we are passionate about what we do and are 
+              practices to ensure that our. At AURORA, we are passionate about what we do and are dedicated to 
+              delivering exceptional customer service. Our goal is to make the web development process
             </p>
           </a>
 
