@@ -87,7 +87,8 @@ export default function About() {
               Our company
             </h2>
             <p className={inter.className}>
-              At AURORA, we understand the importance of having a strong online presence in today's digital world. That's why we work closely with our clients to understand their needs and develop custom web development solutions that are tailored to meet their unique requirements. Whether you are looking to build a new website from scratch, revamp an existing one, or simply need help with web maintenance, our team is here to help.
+              At AURORA, we understand the omprotance of having a strong presence in the digital world. That is why we 
+              work closely with our clients
             </p>
           </a>
 
