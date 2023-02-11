@@ -51,9 +51,9 @@ export default function Home() {
           <div className={styles.thirteen}>
             <Image
               src="/aurora logo.png"
-              alt="13"
-              width={50}
-              height={41}
+              alt="aurora"
+              width={40}
+              height={31}
               priority
             />
           </div>
@@ -104,7 +104,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="/about"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -121,3 +121,5 @@ export default function Home() {
     </>
   )
 }
+//git push master HEAD --force
+//git reset --hard HEAD~3
