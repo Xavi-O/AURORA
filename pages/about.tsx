@@ -87,19 +87,13 @@ export default function About() {
               Our company
             </h2>
             <p className={inter.className}>
-              At AURORA, we understand the omprotance of having a strong presence in the digital world. That is why we 
-              work closely with our clients to understand their needs and develop custom web development solutions 
-              that are tailored to meet their unique requirements. Whether you are looking to build a new website 
-              from scratch, revamp an existing one, or simply need help with web maintenance, our team is here to 
-              help. Our services include website design and development, e-commerce solutions, custom web 
-              applications, mobile app development, and much more. We use the latest technologies and industry best 
-              practices to ensure that our. At AURORA, we are passionate about what we do and are dedicated to 
-              delivering exceptional customer service. Our goal is to make the web development process as smooth and 
-              stress-free as possible for our clients. That is why we offer ongoing support and maintenance services 
-              to ensure that their website continues to function optimally over time.Thank you for considering AURORA 
-              for your web development needs. We would love the opportunity to work with you and help bring your 
-              online vision to life. Please do not hesitate to contact us to learn more about our services and how we 
-              can help you achieve your online goals.
+              AURORA is a leading web development company that offers a wide range of web development services to businesses and individuals. Our goal is to help our clients achieve their online objectives by providing them with innovative and effective web development solutions.
+
+              Our team of skilled developers has extensive experience in website design and development, e-commerce solutions, custom web applications, mobile app development, and more. We use the latest technologies and industry best practices to ensure that our clients receive top-quality solutions that are both user-friendly and visually appealing.
+
+              At AURORA, we understand the importance of having a strong online presence in the digital world. That is why we work closely with our clients to understand their needs and develop custom web development solutions that are tailored to meet their unique requirements. Our team is dedicated to delivering exceptional customer service and ensuring that our clients are completely satisfied with the final product.
+
+              We believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions. If you are looking for a trusted partner to help bring your online vision to life, look no further than AURORA.
             </p>
           </a>
 
