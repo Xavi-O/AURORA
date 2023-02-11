@@ -19,10 +19,10 @@ export default function About() {
       <main className={styles.main}>
         <div className={styles.description}>
           <div>
-            <a className={styles.back} onClick={() => router.back()}>
-              <h2>
-                <span> &larr;</span>{' '}
-              </h2>
+            <a className={styles.card} onClick={() => router.back()}>
+              <h3 className={inter.className}>
+                <span> &lt;-</span>
+              </h3>
               
               <Image
                 src="/aurora logo black.png"
@@ -58,9 +58,9 @@ export default function About() {
 
         <div className={styles.grid}>
           <a className={styles.card}>
-            <h2 className={inter.className}>
+            <h3 className={inter.className}>
               Who we are
-            </h2>
+            </h3>
             <p className={inter.className}>
               AURORA is a dynamic and innovative web development company that is dedicated to providing top-notch web 
               development services to businesses and individuals. With a team of highly skilled and experienced web 
@@ -73,9 +73,9 @@ export default function About() {
           </a>
 
           <a className={styles.card}>
-            <h2 className={inter.className}>
+            <h3 className={inter.className}>
               Our company
-            </h2>
+            </h3>
             <p className={inter.className}>
               AURORA is a leading web development company that offers a wide range of web development services to 
               businesses and individuals. Our goal is to help our clients achieve their online objectives by 
@@ -100,18 +100,18 @@ export default function About() {
           </a>
 
           <a className={styles.card}>
-            <h2 className={inter.className}>
+            <h3 className={inter.className}>
               <blockquote>“Make it work, make it right, make it fast.”</blockquote>
-            </h2>
+            </h3>
             <p className={inter.className}>
               ~ Kent Beck
             </p>
           </a>
 
           <a className={styles.card}>
-            <h2 className={inter.className}>
+            <h3 className={inter.className}>
               Company Values
-            </h2>
+            </h3>
             <p className={inter.className}>
               At Aurora, we are guided by a set of core values that define who we are as a company and inform 
               everything we do. These values shape our culture and drive us to provide the best possible web 

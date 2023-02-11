@@ -53,9 +53,8 @@
   transition: background 200ms, border 200ms;
 }
 
-.back {
+.card span {
   display: inline-block;
-  cursor: pointer;
   transition: transform 200ms;
 }
 
