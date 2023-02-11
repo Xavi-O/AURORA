@@ -90,7 +90,8 @@ export default function About() {
               At AURORA, we understand the omprotance of having a strong presence in the digital world. That is why we 
               work closely with our clients to understand their needs and develop custom web development solutions 
               that are tailored to meet their unique requirements. Whether you are looking to build a new website from scratch, revamp an existing one, or simply need 
-              help with web maintenance, our team is here to help. Our services include website design and development,
+              help with web maintenance, our team is here to help. Our services include website design and development, 
+              e-commerce solutions, custom web applications, mobile app development, and much more.
             </p>
           </a>
 
