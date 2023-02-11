@@ -23,9 +23,11 @@ export default function Home() {
             <code className={styles.code}>~John Johnson</code>
           </p>
           <div>
-            <a 
-            onClick={() => router.push('https://oxavier.000webhostapp.com')}
-            className={styles.card}
+            <a
+              href="https://oxavier.000webhostapp.com"
+              className={styles.card}
+              target="_blank"
+              rel="noopener noreferrer"
             >
               By{' '}
               <Image
@@ -62,7 +64,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://oxavier.000webhostapp.com"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -76,7 +78,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://oxavier.000webhostapp.com"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -91,7 +93,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://oxavier.000webhostapp.com/?page_id=8"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
