@@ -87,13 +87,25 @@ export default function About() {
               Our company
             </h2>
             <p className={inter.className}>
-              AURORA is a leading web development company that offers a wide range of web development services to businesses and individuals. Our goal is to help our clients achieve their online objectives by providing them with innovative and effective web development solutions.
+              AURORA is a leading web development company that offers a wide range of web development services to 
+              businesses and individuals. Our goal is to help our clients achieve their online objectives by 
+              providing them with innovative and effective web development solutions.
 
-              Our team of skilled developers has extensive experience in website design and development, e-commerce solutions, custom web applications, mobile app development, and more. We use the latest technologies and industry best practices to ensure that our clients receive top-quality solutions that are both user-friendly and visually appealing.
+              Our team of skilled developers has extensive experience in website design and development, e-commerce 
+              solutions, custom web applications, mobile app development, and more. We use the latest technologies 
+              and industry best practices to ensure that our clients receive top-quality solutions that are both 
+              user-friendly and visually appealing.
 
-              At AURORA, we understand the importance of having a strong online presence in the digital world. That is why we work closely with our clients to understand their needs and develop custom web development solutions that are tailored to meet their unique requirements. Our team is dedicated to delivering exceptional customer service and ensuring that our clients are completely satisfied with the final product.
+              At AURORA, we understand the importance of having a strong online presence in the digital world. That 
+              is why we work closely with our clients to understand their needs and develop custom web development 
+              solutions that are tailored to meet their unique requirements. Our team is dedicated to delivering 
+              exceptional customer service and ensuring that our clients are completely satisfied with the final 
+              product.
 
-              We believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions. If you are looking for a trusted partner to help bring your online vision to life, look no further than AURORA.
+              We believe in the power of technology to transform and enhance the online presence of our clients, and 
+              we are dedicated to helping them achieve their goals through innovative and impactful web development 
+              solutions. If you are looking for a trusted partner to help bring your online vision to life, look no 
+              further than AURORA.
             </p>
           </a>
 
@@ -121,19 +133,24 @@ export default function About() {
               Company Values
             </h2>
             <p className={inter.className}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-              totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta 
-              sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia 
-              consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui 
-              dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-              incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum 
-              exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem 
-              vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum 
-              qui dolorem eum fugiat quo voluptas nulla pariatur. Neque porro quisquam est, qui dolorem ipsum quia 
-              dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore 
-              et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem 
-              ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure 
-              reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
+              At Aurora, we are guided by a set of core values that define who we are as a company and inform everything we do. These values shape our culture and drive us to provide the best possible web development solutions to our clients.
+
+              Our values include:
+
+              Innovation - We believe in pushing the boundaries of what is possible in web development and are constantly seeking new and creative solutions for our clients.
+
+              Quality - We are committed to delivering the highest quality web development solutions and take pride in our workmanship.
+
+              Customer Focus - Our clients are at the heart of everything we do, and we work tirelessly to ensure their satisfaction and success.
+
+              Teamwork - We believe in the power of collaboration and are proud of the close-knit team we have built here at Aurora.
+
+              Integrity - We hold ourselves to the highest ethical standards and are committed to doing business with transparency and honesty.
+
+              Growth - We are always seeking new opportunities for growth and development, both as individuals and as a company.
+
+              By embracing these values, we strive to provide a positive and productive work environment for our team and deliver exceptional web development solutions to our clients. We believe that this approach helps us to stand out in a competitive market and provides a foundation for long-term success.
+
             </p>
           </a>
         </div>
