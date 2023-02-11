@@ -105,8 +105,8 @@ export default function About() {
             </h3>
             <p className={inter.className}>
               ~ Kent Beck
-            </p>
-          </a>
+            </p><br />
+          </a><br />
 
           <a className={styles.card}>
             <h3 className={inter.className}>
