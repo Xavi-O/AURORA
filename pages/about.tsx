@@ -57,12 +57,7 @@ export default function About() {
         </div>
 
         <div className={styles.grid}>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a className={styles.card}>
             <h2 className={inter.className}>
               Who we are
             </h2>
@@ -77,12 +72,7 @@ export default function About() {
             </p>
           </a>
 
-          <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a className={styles.card}>
             <h2 className={inter.className}>
               Our company
             </h2>
@@ -109,12 +99,7 @@ export default function About() {
             </p>
           </a>
 
-          <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a className={styles.card}>
             <h2 className={inter.className}>
               <blockquote>“Make it work, make it right, make it fast.”</blockquote>
             </h2>
@@ -123,12 +108,7 @@ export default function About() {
             </p>
           </a>
 
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a className={styles.card}>
             <h2 className={inter.className}>
               Company Values
             </h2>
