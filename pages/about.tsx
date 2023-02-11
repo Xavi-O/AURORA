@@ -96,9 +96,9 @@ export default function About() {
               practices to ensure that our. At AURORA, we are passionate about what we do and are dedicated to 
               delivering exceptional customer service. Our goal is to make the web development process as smooth and 
               stress-free as possible for our clients. That is why we offer ongoing support and maintenance services 
-              to ensure that their website continues to function optimally over time.Thank you for considering Aurora 
+              to ensure that their website continues to function optimally over time.Thank you for considering AURORA 
               for your web development needs. We would love the opportunity to work with you and help bring your 
-              online vision to life. Please don't hesitate to contact us to learn more about our services and how we 
+              online vision to life. Please do not hesitate to contact us to learn more about our services and how we 
               can help you achieve your online goals.
             </p>
           </a>
