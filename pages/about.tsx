@@ -67,7 +67,7 @@ export default function About() {
               Who we are
             </h2>
             <p className={inter.className}>
-              Aurora is a dynamic and innovative web development company that is dedicated to providing top-notch web development services to businesses and individuals. With a team of highly skilled and experienced web developers, we are committed to delivering exceptional solutions that are tailored to meet the unique needs of our clients. Our passion for delivering cutting-edge technology and unparalleled customer service has made us a leader in the web development industry. At Aurora, we believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions.
+              AURORA is a dynamic and innovative web development company that is dedicated to providing top-notch web development services to businesses and individuals. With a team of highly skilled and experienced web developers, we are committed to delivering exceptional solutions that are tailored to meet the unique needs of our clients. Our passion for delivering cutting-edge technology and unparalleled customer service has made us a leader in the web development industry. At Aurora, we believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions.
             </p>
           </a>
 
@@ -81,19 +81,7 @@ export default function About() {
               Our company
             </h2>
             <p className={inter.className}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-              totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta 
-              sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia 
-              consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui 
-              dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-              incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum 
-              exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem 
-              vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum 
-              qui dolorem eum fugiat quo voluptas nulla pariatur. Neque porro quisquam est, qui dolorem ipsum quia 
-              dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore 
-              et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem 
-              ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure 
-              reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.
+              At AURORA, we understand the importance of having a strong online presence in today's digital world. That's why we work closely with our clients to understand their needs and develop custom web development solutions that are tailored to meet their unique requirements. Whether you are looking to build a new website from scratch, revamp an existing one, or simply need help with web maintenance, our team is here to help.
             </p>
           </a>
 
