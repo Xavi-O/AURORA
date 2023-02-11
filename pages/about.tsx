@@ -116,10 +116,10 @@ export default function About() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              <blockquote>Put a great Quote</blockquote>
+              <blockquote>“Make it work, make it right, make it fast.”</blockquote>
             </h2>
             <p className={inter.className}>
-              ~By John Doe
+              ~ Kent Beck
             </p>
           </a>
 
