@@ -67,7 +67,13 @@ export default function About() {
               Who we are
             </h2>
             <p className={inter.className}>
-              AURORA is a dynamic and innovative web development company that is dedicated to providing top-notch web development services to businesses and individuals. With a team of highly skilled and experienced web developers, we are committed to delivering exceptional solutions that are tailored to meet the unique needs of our clients. Our passion for delivering cutting-edge technology and unparalleled customer service has made us a leader in the web development industry. At Aurora, we believe in the power of technology to transform and enhance the online presence of our clients, and we are dedicated to helping them achieve their goals through innovative and impactful web development solutions.
+              AURORA is a dynamic and innovative web development company that is dedicated to providing top-notch web 
+              development services to businesses and individuals. With a team of highly skilled and experienced web 
+              developers, we are committed to delivering exceptional solutions that are tailored to meet the unique 
+              needs of our clients. Our passion for delivering cutting-edge technology and unparalleled customer 
+              service has made us a leader in the web development industry. At Aurora, we believe in the power of 
+              technology to transform and enhance the online presence of our clients, and we are dedicated to helping 
+              them achieve their goals through innovative and impactful web development solutions.
             </p>
           </a>
 
