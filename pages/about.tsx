@@ -92,7 +92,9 @@ export default function About() {
               that are tailored to meet their unique requirements. Whether you are looking to build a new website 
               from scratch, revamp an existing one, or simply need help with web maintenance, our team is here to 
               help. Our services include website design and development, e-commerce solutions, custom web 
-              applications, mobile app development, and much more.
+              applications, mobile app development, and much more. We use the latest technologies and industry best 
+              practices to ensure that our clients receive top-quality solutions that are both user-friendly and 
+              visually appealing
             </p>
           </a>
 
