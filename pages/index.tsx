@@ -106,7 +106,7 @@ export default function Home() {
           <a
             href="/about"
             className={styles.card}
-            target=""
+            target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
