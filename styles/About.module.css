@@ -56,6 +56,10 @@
 .card span {
   display: inline-block;
   transition: transform 200ms;
+  cursor: pointer;
+}
+.vercelLogo {
+  cursor: pointer;
 }
 
 .card h2 {
