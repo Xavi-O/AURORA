@@ -68,8 +68,8 @@
 .card p {
   margin: 0;
   opacity: 0.6;
-  font-size: 0.9rem;
-  line-height: 1.5;
+  font-size: 1.2rem;
+  line-height: 2;
 }
 
 .card h2 blockquote {
@@ -191,11 +191,18 @@
   }
 
   .card {
-    padding: 1rem 2.5rem;
+    padding: .01rem .01rem;
   }
 
   .card h2 {
     margin-bottom: 0.5rem;
+  }
+
+  .card ol li {
+    list-style: none;
+  }
+  .card h2 blockquote {
+    font-size: 3rem;
   }
 
   .center {
