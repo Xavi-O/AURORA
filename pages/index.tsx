@@ -23,10 +23,9 @@ export default function Home() {
             <code className={styles.code}>~John Johnson</code>
           </p>
           <div>
-            <a
-              href="https://oxavier.000webhostapp.com"
-              target="_blank"
-              rel="noopener noreferrer"
+            <a 
+            onClick={() => router.push('https://oxavier.000webhostapp.com')}
+            className={styles.card}
             >
               By{' '}
               <Image
