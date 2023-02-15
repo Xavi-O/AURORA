@@ -24,7 +24,7 @@ export default function Home() {
           </p>
           <div>
             <a
-              href="https://www.linkedin.com/in/xavier-odhiambo-048881265/"
+              href="https://oxavier.000webhostapp.com"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
