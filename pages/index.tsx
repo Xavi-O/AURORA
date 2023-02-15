@@ -64,7 +64,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://oxavier.000webhostapp.com"
+            href="https://oxavier.000webhostapp.com/index.php/services/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -78,7 +78,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://oxavier.000webhostapp.com"
+            href="https://oxavier.000webhostapp.com/index.php/2023/02/14/aurora/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -93,7 +93,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://oxavier.000webhostapp.com/?page_id=8"
+            href="https://oxavier.000webhostapp.com/index.php/projects/"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
